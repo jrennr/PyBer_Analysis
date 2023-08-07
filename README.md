@@ -13,7 +13,8 @@ City Type	Total Rides	Total Drivers	Total Fares
 Urban	1625	2405	$39,854.38
 Suburban	625	490	$19,356.33
 Rural	125	78	$4,327.93
-![Example Image](images/example.png)
+![Example Image](https://github.com/jrennr/PyBer_Analysis/blob/main/total%20rides%20drivers%20and%20fares%20by%20city%20type.png
+)
 
 
 ### Average Fare per Ride and Driver by City Type:
