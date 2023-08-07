@@ -21,7 +21,7 @@ City Type	Average Fare per Ride	Average Fare per Driver
 Urban	$24.53	$16.57
 Suburban	$30.97	$39.50
 Rural	$34.62	$55.49
-![Example Image](images/example.png)
+![Example Image](https://github.com/jrennr/PyBer_Analysis/blob/main/avg%20fare%20per%20and%20driver%20by%20city%20type.png)
 
  
 ## Summary:
