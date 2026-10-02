@@ -12,3 +12,10 @@ Exploratory analysis of ride and driver data grouped by urban, suburban, and rur
 ![Average fares by city type](avg%20fare%20per%20and%20driver%20by%20city%20type.png)
 
 [Notebook](PyBer_Challenge.ipynb) · [Python script](PyBer_Challenge.py) · [City data](city_data.csv) · [Ride data](ride_data.csv)
+
+## Project history
+
+- **Repository created:** November 2022
+- **Focus at the time:** Python data analysis and visualization
+- **Portfolio context:** This repository is intentionally preserved as part of my public development history. It shows earlier work and skill progression rather than being rewritten to resemble a current production project.
+- **Current portfolio:** [jenniferreevey.dev](https://jenniferreevey.dev/)
