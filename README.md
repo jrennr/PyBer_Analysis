@@ -12,5 +12,3 @@ Exploratory analysis of ride and driver data grouped by urban, suburban, and rur
 ![Average fares by city type](avg%20fare%20per%20and%20driver%20by%20city%20type.png)
 
 [Notebook](PyBer_Challenge.ipynb) · [Python script](PyBer_Challenge.py) · [City data](city_data.csv) · [Ride data](ride_data.csv)
-
-Urban areas account for the most rides and total fares in this dataset; rural rides have the highest average fare. These summaries alone do not establish why the differences occur or what service change would improve the business.
